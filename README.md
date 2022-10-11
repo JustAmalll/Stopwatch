@@ -3,7 +3,7 @@
 A simple stopwatch application with jetpack compose using foreground and bound services 
 
 <p align="center">
-  
+  <img src="https://user-images.githubusercontent.com/85354530/195109403-c0e27334-aeff-4f2b-a747-e4c75eedf5c0.png" href="preview">
 </p>
 
 This application basically consists of 3 different text units representing Hours, Minutes and Seconds.
